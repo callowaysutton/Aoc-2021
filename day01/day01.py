@@ -3,6 +3,7 @@ with open("input.txt") as lines:
     for line in lines:
         scan.append(int(line.strip()))
 
+
 def p1(scan):
     """Part One Solution
     """
